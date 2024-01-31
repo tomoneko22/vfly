@@ -348,4 +348,3 @@ S.MouseButton1Click:Connect(function()
 	wait(.1)
 	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * 0
 end)
-Advertisement
